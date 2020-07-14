@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Azure and related cloud technologies. My background is application/solutions as well as enterprise architecture with most of experience in Microsoft technologies. 
+
+- 💬 Ask me about Azure and cloud governance.
+
+- 📫 How to reach me: ... adwait . ullal @ gmail.com
+
+- 😄 Pronouns: He/him
+
 <!--
 **adwaitu/adwaitu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
